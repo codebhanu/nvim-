@@ -21,6 +21,8 @@ return {
       },
       -- ensure these language parsers are installed
       ensure_installed = {
+                "lua",
+                "python",
         "json",
         "javascript",
         "typescript",
